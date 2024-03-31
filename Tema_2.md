@@ -22,13 +22,15 @@
 - к.э.н., доцент Панов М.А.
 
 ## Самостоятельная работа №1
-### Выведите в консоль булевую переменную False, не используя слово False.
+### Выведите в консоль булевую переменную False, не используя слово False в строке или изначально присвоенную булевую переменную. 
+Программа должна занимать не более двухстрок редактора кода.
 
 ```python
-print(10 > 13)
+x = not True
+print(x)
 ```
 ### Результат.
-![Меню](https://github.com/Dar13lol/Software_Engineering/blob/Laba_2/png_2/1.png).
+![Меню](https://github.com/).
 
 
 ## Выводы
@@ -43,7 +45,7 @@ a, b, c = 10, 20, 30
 print(a, b,c)
 ```
 ### Результат.
-![Меню](https://github.com/Dar13lol/Software_Engineering/blob/Laba_2/png_2/2.png).
+![Меню](https://github.com/).
 
 ## Выводы
 
@@ -56,7 +58,7 @@ print(a, b,c)
 х = int (input("Введите целое число: "))
 ```
 ### Результат.
-![Меню](https://github.com/Dar13lol/Software_Engineering/blob/Laba_2/png_2/3.png).
+![Меню](https://github.com/).
 
 ## Выводы
 
@@ -70,7 +72,7 @@ a = "KEVIN"
 print(a*4)
 ```
 ### Результат.
-![Меню](https://github.com/Dar13lol/Software_Engineering/blob/Laba_2/png_2/4.png).
+![Меню](https://github.com/).
 
 ## Выводы
 
@@ -85,7 +87,7 @@ print(f"Сегодня {day} {month} {year}.", end=' Всего хорошего
 
 ```
 ### Результат.
-![Меню](https://github.com/Dar13lol/Software_Engineering/blob/Laba_2/png_2/5.png).
+![Меню](https://github.com/).
 
 ## Выводы
 
@@ -98,7 +100,7 @@ print(f"Сегодня {day} {month} {year}.", end=' Всего хорошего
 print('Hello', 'World', sep=' my ')
 ```
 ### Результат.
-![Меню](https://github.com/Dar13lol/Software_Engineering/blob/Laba_2/png_2/6.png).
+![Меню](https://github.com/).
 
 ## Выводы
 
@@ -113,7 +115,7 @@ print(len(sentence))
 
 ```
 ### Результат.
-![Меню](https://github.com/Dar13lol/Software_Engineering/blob/Laba_2/png_2/7.png).
+![Меню](https://github.com/).
 
 ## Выводы
 
@@ -128,7 +130,7 @@ print(sentence.lower())
 
 ```
 ### Результат.
-![Меню](https://github.com/Dar13lol/Software_Engineering/blob/Laba_2/png_2/8.png).
+![Меню](https://github.com/).
 
 ## Выводы
 
@@ -143,7 +145,7 @@ b = 7
 print("Остаток от деления 13 на 7:",a%b)
 ```
 ### Результат.
-![Меню](https://github.com/Dar13lol/Software_Engineering/blob/Laba_2/png_2/9.png).
+![Меню](https://github.com/).
 
 ## Выводы
 
@@ -158,7 +160,7 @@ print(sentence[8])
 print(sentence[8:14])
 ```
 ### Результат.
-![Меню](https://github.com/Dar13lol/Software_Engineering/blob/Laba_2/png_2/10.png).
+![Меню](https://github.com/).
 
 ## Выводы
 
