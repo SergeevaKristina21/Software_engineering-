@@ -36,7 +36,7 @@ print("Сколько разных людей посетило ресторан:
 print("Какой работник посетил ресторан больше всех раз: ", most_frequent_worker)
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_5/Pic_5/1.png).
 
 
 ## Выводы
@@ -65,7 +65,7 @@ print("Все результаты, начиная с 10: ", results_from_10 [9:
 
 ```
 ### Результат.
-![Меню](https://github.com/Dar13lol/Software_Engineering/blob/Laba_5/png_5/2.png).
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_5/Pic_5/2.png)
 
 ## Выводы
 
@@ -107,7 +107,7 @@ print("Максимальная площадь треугольника:", max(a
 
 ```
 ### Результат.
-![Меню](https://github.com/Dar13lol/Software_Engineering/blob/Laba_5/png_5/3.png).
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_5/Pic_5/3.png).
 
 ## Выводы
 
@@ -138,7 +138,7 @@ for i, updated_grades in enumerate(updated_grades_lists, 1):
 
 ```
 ### Результат.
-![Меню](https://github.com/Dar13lol/Software_Engineering/blob/Laba_5/png_5/4.png).
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_5/Pic_5/4.png).
 
 ## Выводы
 
@@ -174,7 +174,7 @@ print(result_3)
 
 ```
 ### Результат.
-![Меню](https://github.com/Dar13lol/Software_Engineering/blob/Laba_5/png_5/5.png).
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_5/Pic_5/5.png).
 
 ## Выводы
 
