@@ -105,7 +105,7 @@ gardener.work()
 gardener.harvest()
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_9/pic_9/1.png)
 
 
 ## Выводы
