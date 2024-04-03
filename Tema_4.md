@@ -51,7 +51,7 @@ if __name__ == '__main__':
     print(f"Program execution time {timecosts}")
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_4/pic_4/1.png)
 
 
 ## Выводы
@@ -90,7 +90,7 @@ if __name__ == '__main__':
  
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_4/pic_4/2.png)
 
 ## Выводы
 
@@ -112,7 +112,7 @@ current_time = datetime.datetime.now()
 print(f"Финальное время: {current_time.strftime('%H:%M:%S')}") 
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_4/pic_4/3.png)
 
 ## Выводы
 
@@ -169,7 +169,7 @@ def calculate_triangle_area(a, b, c):
     return area
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_4/pic_4/5.png).
 
 ## Выводы
   
