@@ -45,7 +45,7 @@ if __name__ == '__main__':
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_8/pic_8/1.png).
 
 
 ## Выводы
@@ -66,7 +66,7 @@ print(duck.year)
 print(duck.color)
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_8/pic_8/2.png).
 
 ## Выводы
 
@@ -91,7 +91,7 @@ print(duck.name)
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_8/pic_8/3.png).
 
 ## Выводы
 
@@ -116,7 +116,7 @@ duck.eat()
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_8/pic_8/4.png).
 
 ## Выводы
 
@@ -147,7 +147,7 @@ print("Cat color:", cat.color)
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_8/pic_8/5.png).
 
 ## Выводы
 
