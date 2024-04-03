@@ -57,7 +57,7 @@ class Gardener:  #создание класса
     def work(self):
         self._plant.grow_all()
 
-   def harvest(self): # проверяет, все ли помидоры зрелые
+    def harvest(self): # проверяет, все ли помидоры зрелые
         if self._plant.all_are_ripe():
             print('Урожай собран!')
             self._plant.give_away_all()
@@ -95,11 +95,7 @@ def harvest_tomatoes(unripe=True):
 
 # Проверка на сбор урожая, когда томаты еще не спелые
 harvest_tomatoes(unripe=True)
-
-# Сбор урожая
 gardener.harvest()
-
-# Продолжение ухода за кустом, пока томаты не дозреют
 gardener.work()
 gardener.harvest()
 gardener.work()
