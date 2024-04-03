@@ -36,7 +36,7 @@ print(f"Самое часто встречающееся слово: {most_commo
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/main/pic_7/1.png)
 
 
 ## Выводы
@@ -85,7 +85,7 @@ while True:
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/main/pic_7/2.png)
 
 ## Выводы
 
@@ -115,7 +115,7 @@ count_statistics(file_path)
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/main/pic_7/3.png)
 
 ## Выводы
 
@@ -142,7 +142,7 @@ censored_output = censor_sentence(input_sentence, banned_words)
 print(censored_output)
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/main/pic_7/4.png)
 
 ## Выводы
 
@@ -171,7 +171,7 @@ print(f"Средняя длина слова: {average_length}")
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/main/pic_7/5.png)
 
 ## Выводы
 
