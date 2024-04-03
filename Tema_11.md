@@ -40,8 +40,8 @@ for _ in range(10):
     print(next(fib_generator))
 
 ```
-### Результат.
-![Меню]().
+### Результат
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_11/pic_11/1.png)
 
 
 ## Выводы
@@ -83,8 +83,7 @@ print("Числа Фибоначчи были записаны в файл 'fib.
 
 ```
 ### Результат.
-![Меню]().
-![Меню]().
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_11/pic_11/11.2.png)
 
 ## Выводы
 Результатом является список чисел от двухсотого до двухсот десятого значения последовательности Фибоначчи, который записан в файл fib.txt
