@@ -29,8 +29,7 @@ for _ in range(6):
 print(result)
 ```
 ### Результат.
-![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_3/pic_3/1.png).
-
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_3/pic_3/1.png)
 
 ## Выводы
 
@@ -46,7 +45,7 @@ for letter in reversed(phrase):
     print(letter)
 ```
 ### Результат.
-![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_3/pic_3/2.png).
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_3/pic_3/2.png)
 
 ## Выводы
 
@@ -69,7 +68,7 @@ else:
         print("Число находится в диапазоне от 6 до 10")
 ```
 ### Результат.
-![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_3/pic_3/3.png).
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_3/pic_3/3.png)
 
 ## Выводы
 
@@ -105,8 +104,8 @@ else:
     print("Предложение не заканчивается на 'end'")
 ```
 ### Результат.
-![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_3/pic_3/4.1png.png).
-![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_3/pic_3/4.2.png).
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_3/pic_3/4.1png.png)
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_3/pic_3/4.2.png)
 ## Выводы
 
 Программа выполняет действия: Длина предложения Перевод в нижний регистр Подсчет количества гласных Замена слов ugly на beauty Проверка на начало с The и на конец на End
@@ -127,7 +126,7 @@ while counter < 10:
 
 ```
 ### Результат.
-![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_3/pic_3/5.png).
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_3/pic_3/5.png)
 
 ## Выводы
   
