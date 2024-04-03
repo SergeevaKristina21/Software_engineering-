@@ -80,18 +80,16 @@ else:
 ### Напишите программу на Python, которая принимает предложение на английском в качестве вводных данных от пользователя.
 
 ```python
-# Получение предложения от пользователя
 sentence = input("Введите предложение на английском: ")
-# Вывод длины предложения
 print("Длина предложения: ", len(sentence))
-# Перевод предложения в нижний регистр
+
 sentence_lower = sentence.lower()
 print("Предложение в нижнем регистре: ", sentence_lower)
-# Подсчет количества гласных
+
 vowels = ['a', 'e', 'i', 'o', 'u']
 count_vowels = sum(1 for letter in sentence_lower if letter in vowels)
 print("Количество гласных в предложении: ", count_vowels)
-# Замена слов "ugly" на "beauty"
+
 sentence_replaced = sentence_lower.replace("ugly", "beauty")
 print("Предложение с заменой: ", sentence_replaced)
 
