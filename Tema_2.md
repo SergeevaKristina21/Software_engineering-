@@ -84,7 +84,7 @@ day, month, year = 5, 'апреля', 2024
 print(f"Сегодня {day} {month} {year}.", end=' Всего хорошего!')
 ```
 ### Результат.
-![Меню]([https://github.com/](https://github.com/SergeevaKristina21/Software_engineering-/blob/Тема_2/pic/5.png)).
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Тема_2/pic/5.png).
 
 ## Выводы
 
@@ -127,7 +127,7 @@ print(Word.lower())
 
 ```
 ### Результат.
-![Меню]([https://github.com/](https://github.com/SergeevaKristina21/Software_engineering-/blob/Тема_2/pic/8.png)).
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Тема_2/pic/8.png).
 
 ## Выводы
 
@@ -141,7 +141,7 @@ print('Следующее за числом', a, 'число:', a+1)
 print('Для числа', a, 'предыдущее число:', a-1)
 ```
 ### Результат.
-![Меню]([https://github.com/](https://github.com/SergeevaKristina21/Software_engineering-/blob/Тема_2/pic/9.png)).
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Тема_2/pic/9.png).
 
 ## Выводы
 
@@ -153,7 +153,7 @@ print('Для числа', a, 'предыдущее число:', a-1)
 print(input("Введите слово: ")[0:4])
 ```
 ### Результат.
-![Меню]([https://github.com/](https://github.com/SergeevaKristina21/Software_engineering-/blob/Тема_2/pic/10.png)).
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Тема_2/pic/10.png).
 
 ## Выводы
 
