@@ -44,7 +44,7 @@ a, b, c = 1, 200, 3000
 print(a,b,c)
 ```
 ### Результат.
-![Меню]([https://github.com/](https://github.com/SergeevaKristina21/Software_engineering-/blob/Тема_2/pic/2.png)).
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Тема_2/pic/2.png).
 
 ## Выводы
 
@@ -57,7 +57,7 @@ print(a,b,c)
 х = int (input("Введите целое число: "))
 ```
 ### Результат.
-![Меню]([https://github.com/](https://github.com/SergeevaKristina21/Software_engineering-/blob/Тема_2/pic/3.png)).
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Тема_2/pic/3.png).
 
 ## Выводы
 
