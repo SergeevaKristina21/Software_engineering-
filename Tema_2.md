@@ -30,7 +30,7 @@ x = not True
 print(x)
 ```
 ### Результат.
-![Меню](https://github.com/).
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Тема_2/pic/1.png).
 
 
 ## Выводы
