@@ -135,7 +135,7 @@ if __name__ == '__main__':
     print(f'Среднее арифметическое: {avg}')
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_4/pic_4/4.png)
 
 ## Выводы
 
