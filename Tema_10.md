@@ -41,8 +41,8 @@ if __name__ == '__main__':
     print()
 ```
 ### Результат.
-![Меню]().
-
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_10/pic_10/1.png).
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_10/pic_10/1.1.png).
 
 ## Выводы
 
@@ -77,7 +77,7 @@ except Exception as e:
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_10/pic_10/2.png).
 
 ## Выводы
 
@@ -106,7 +106,7 @@ add_two_to_input()
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_10/pic_10/3.png).
 
 ## Выводы
 
@@ -140,7 +140,7 @@ print("Умножение на 5:", multiply_by_two(13))
 print("Деление на 5:", divide_by_two("10"))
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_10/pic_10/4.png).
 
 ## Выводы
 
@@ -175,7 +175,7 @@ except NegativeValueError as e:
 
 ```
 ### Результат.
-![Меню]().
+![Меню](https://github.com/SergeevaKristina21/Software_engineering-/blob/Tema_10/pic_10/5.png).
 
 ## Выводы
 Было создано исключение NegativeValueError, которое работает при попытке передачи отрицательного значения в функции. Далее в двух фрагментах кода используется это исключение. 
